@@ -43,7 +43,7 @@ Template de chatbot intelligent prêt pour la production.
 - Documentation Framework  
 Kit complet pour structurer, protéger et présenter les projets pro.  
 
-- VS Code Formatting Pack  
+- Pack de Formatage VS Code  
 Configuration de formatage claire et minimaliste.  
 
 - Client Project anonymisé  
