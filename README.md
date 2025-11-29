@@ -17,7 +17,7 @@ En 2025, je me suis plongé dans le code.
 D’abord pour continuer mon projet personnel (un site de bien-être naturel), puis… le code est devenu une vraie passion.
 J’ai appris en construisant, en testant, en cassant, en réparant et en comprenant ce que je faisais.
 
-Aujourd’hui, je conçois des outils autonomes, sûrs, faciles à intégrer et pensés pour durer.
+Aujourd’hui, je conçois des outils et ressources numériques autonomes, fiables et pensés pour durer.
 
 ---
 
@@ -64,7 +64,7 @@ In 2025, I started coding seriously.
 At first to fix and improve my personal project (a natural wellness website), but the more I coded, the more I enjoyed it.
 I learned by building, breaking, fixing — and understanding.
 
-Today, I focus on creating autonomous, secure tools that are easy to use and built to last.
+Today, I design autonomous, reliable digital tools and resources built to last.
 
 ---
 
