@@ -101,4 +101,4 @@ If you're interested in my tools, want to chat, or are looking for something spe
 - Gumroad : https://palks.gumroad.com  
 - Itch.io : https://palks-studio.itch.io  
 - Ko-fi : https://ko-fi.com/palksstudio
-- Twitter (X) : https://x.com/PalksStudio
+- Twitter (X) : https://x.com/Palks_Studio
