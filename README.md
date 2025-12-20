@@ -4,7 +4,8 @@
 
 # 🇫🇷 / 🇬🇧  Palks Studio
 
-Créateur d’outils digitaux utiles et autonomes. Pensés pour les développeurs, les petites équipes et les projets professionnels.
+Créateur d’outils digitaux utiles et autonomes. Pensés pour les développeurs, les petites équipes et les projets professionnels.   
+Site officiel : https://palks-studio.com
 
 ---
 
@@ -53,7 +54,8 @@ Démonstration d’un projet web 100% statique & sans dépendances.
 
 # 🇬🇧 English version
 
-Creator of useful, autonomous digital tools — built for developers, small teams, and real-world projects.
+Creator of useful, autonomous digital tools — built for developers, small teams, and real-world projects.  
+Official website: https://palks-studio.com
 
 Hi, I’m Anthony, a self-taught developer and independent creator.
 
@@ -92,9 +94,8 @@ See all repositories below on my profile — every project includes both French 
 
 If you're interested in my tools, want to chat, or are looking for something specific, you can reach me here:
 
-**Official links :**  
-- GitHub : https://github.com/Palks-Studio  
-- Gumroad : https://palks.gumroad.com  
-- Itch.io : https://palks-studio.itch.io  
-- Ko-fi : https://ko-fi.com/palksstudio
-- Twitter (X) : https://x.com/Palks_Studio
+**Palks Studio**  
+Independent creator of useful, autonomous digital tools.
+
+- https://palks-studio.com  
+- https://github.com/Palks-Studio
