@@ -24,6 +24,9 @@ Aujourd’hui, je conçois des outils et ressources numériques autonomes, fiabl
 
 ## Ce que je crée chez Palks Studio
 
+- Systèmes d’automatisation métier (facturation, flux internes)  
+Architectures robustes, auditées et pensées pour fonctionner sans dépendance critique.
+
 - Socles de sites statiques professionnels (HTML / CSS)
 Bases durables, maintenables et sans dépendances, pensées pour un usage réel en production.
 
@@ -80,6 +83,9 @@ Today, I design autonomous, reliable digital tools and resources built to last.
 ---
 
 ## What I build at Palks Studio
+
+- Business automation systems (billing, internal workflows)  
+Robust, auditable architectures designed to run without critical external dependencies.
 
 - Professional static website foundations (HTML / CSS)
 Durable, maintainable, dependency-free bases designed for real-world production use.
