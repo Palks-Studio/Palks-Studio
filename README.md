@@ -17,7 +17,8 @@ Site officiel : [https://palks-studio.com](https://palks-studio.com)
 
 Bonjour, je suis Anthony, développeur autodidacte et créateur indépendant.
 
-Je construis des outils et des structures techniques simples, fiables et compréhensibles, destinés aux développeurs, aux petites équipes et aux projets professionnels qui recherchent de la stabilité plutôt que de la complexité.
+Je construis des outils et des structures techniques simples, fiables et compréhensibles, destinés aux développeurs,  
+aux petites équipes et aux projets professionnels qui recherchent de la stabilité plutôt que de la complexité.
 
 Mon approche repose sur quelques principes simples :  
 
@@ -61,30 +62,45 @@ Configurations VS Code minimalistes et cohérentes, sans dépendance externe.
 
 ## Projets publics
 
-Les dépôts publics représentent des briques indépendantes utilisées dans des projets réels.
+Les projets publics ci-dessous regroupent des systèmes principaux,  
+des bases techniques réutilisables et des projets réels utilisés comme démonstration.
 
-### Static Site
+### Systèmes principaux
 
-Socle de site statique professionnel en HTML et CSS, sans framework ni CMS.
-Demo FR : [https://demo.palks-studio.com](https://demo.palks-studio.com)
+#### Automation Finance
 
+Moteur d’automatisation de facturation batch (Factur-X / EN16931), conçu pour des flux reproductibles, traçables et déterministes.  
+Pensé pour automatiser la génération de factures, structurer les archives et réduire les manipulations manuelles dans des contextes professionnels.
+
+---
+
+### Fondations et outils
+
+#### Static Site
+
+Socle de site statique professionnel en HTML et CSS, sans framework ni CMS.  
+Demo FR : [https://demo.palks-studio.com](https://demo.palks-studio.com)  
 Demo EN : [https://demo-en.palks-studio.com](https://demo-en.palks-studio.com)
 
-### Flask Chatbot 2.0
+#### Flask Chatbot 2.0
 
 Template de chatbot intelligent prêt pour un usage professionnel.
 
-### Documentation Framework
+#### Documentation Framework
 
 Framework bilingue pour structurer la documentation technique.
 
-### VS Code Formatting Pack
+#### VS Code Formatting Pack
 
 Configuration de formatage claire et minimaliste.
 
-### SantéPlusAI 
+---
 
-Exemple de projet web 100 % statique, présenté à des fins de démonstration technique.
+### Projet réel
+
+#### SantéPlusAI
+
+Exemple de projet web 100 % statique, présenté comme démonstration technique.
 
 [https://santeplusai.fr/](https://santeplusai.fr/)
 
@@ -92,7 +108,7 @@ Exemple de projet web 100 % statique, présenté à des fins de démonstration t
 
 ## Philosophie
 
-Les outils publiés ici privilégient la clarté, la stabilité et l’autonomie.
+Les outils publiés ici privilégient la clarté, la stabilité et l’autonomie.  
 L’objectif n’est pas d’ajouter de la complexité, mais d’en retirer.
 
 
@@ -102,7 +118,7 @@ L’objectif n’est pas d’ajouter de la complexité, mais d’en retirer.
 
 # Palks Studio
 
-Autonomous digital tools and structured systems.
+Autonomous digital tools and structured systems.  
 Designed for real-world projects, maintainable over time, without unnecessary dependencies.
 
 Official website: [https://palks-studio.com](https://palks-studio.com)
@@ -113,14 +129,15 @@ Official website: [https://palks-studio.com](https://palks-studio.com)
 
 Hello, I’m Anthony, a self-taught developer and independent creator.
 
-I build simple, reliable, and understandable technical tools and structures for developers, small teams, and professional projects seeking stability rather than complexity.
+I build simple, reliable, and understandable technical tools and structures for developers, small teams,  
+and professional projects seeking stability rather than complexity.
 
-My approach is based on a few core principles:
+My approach is based on a few core principles:  
 
-* structural simplicity
-* tool autonomy
-* clear documentation
-* predictable behavior
+* structural simplicity  
+* tool autonomy  
+* clear documentation  
+* predictable behavior  
 * no unnecessary dependencies
 
 I learn by building complete projects designed to be used and maintained in real conditions.
@@ -155,33 +172,46 @@ Minimal and consistent VS Code configurations without external dependencies.
 
 ---
 
-## Public projects
+## Public Projects
 
-Public repositories represent independent building blocks used in real-world projects.
+The public projects below include core systems, reusable technical foundations, and real-world projects presented as technical demonstrations.
 
-### Static Site
+### Core Systems
 
-Professional static website foundation built with HTML and CSS, without frameworks or CMS.
+#### Automation Finance
 
-Demo EN : [https://demo-en.palks-studio.com](https://demo-en.palks-studio.com)
+Batch invoicing automation engine (Factur-X / EN16931), designed for reproducible, traceable, and deterministic workflows.  
+Built to automate invoice generation, structure archives, and reduce manual handling in professional environments.
 
-Demo FR : [https://demo.palks-studio.com](https://demo.palks-studio.com)
+---
 
-### Flask Chatbot 2.0
+### Foundations & Tools
+
+#### Static Site
+
+Professional static website foundation built with HTML and CSS, without frameworks or CMS.  
+Demo EN: [https://demo-en.palks-studio.com](https://demo-en.palks-studio.com)  
+Demo FR: [https://demo.palks-studio.com](https://demo.palks-studio.com)
+
+#### Flask Chatbot 2.0
 
 An intelligent chatbot template ready for professional use.
 
-### Documentation Framework
+#### Documentation Framework
 
-A bilingual FR/EN framework for structuring technical documentation.
+A bilingual framework designed to structure technical documentation clearly.
 
-### VS Code Formatting Pack
+#### VS Code Formatting Pack
 
 A clear and minimal formatting configuration.
 
-### SantéPlusAI
+---
 
-An example of a fully static web project shared for technical demonstration purposes.
+### Real-world Project
+
+#### SantéPlusAI
+
+A fully static web project presented as a technical demonstration.
 
 [https://santeplusai.fr/](https://santeplusai.fr/)
 
